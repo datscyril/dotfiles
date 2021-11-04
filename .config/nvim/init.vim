@@ -7,6 +7,9 @@ call plug#begin()
 
 " Shorthand notation; fetches https://github.com/junegunn/vim-easy-align
 
+" Github Copilot
+Plug 'github/copilot.vim'
+
 " NERDTree
 Plug 'preservim/nerdtree'
 Plug 'Xuyuanp/nerdtree-git-plugin'
